@@ -1,0 +1,12 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603972034720,564,capital,200,,Thread Group 1-1,text,true,,1308,194,1,1,http://restcountries.eu/rest/v2/capital/Kabul?fields=name;capital;currencies;latlng;regionalBlocs,564,0,182
+1603972036362,326,capital,200,,Thread Group 1-1,text,true,,1273,198,1,1,http://restcountries.eu/rest/v2/capital/Mariehamn?fields=name;capital;currencies;latlng;regionalBlocs,325,0,0
+1603972037714,340,capital,200,,Thread Group 1-1,text,true,,1290,195,1,1,http://restcountries.eu/rest/v2/capital/Tirana?fields=name;capital;currencies;latlng;regionalBlocs,339,0,0
+1603972039135,362,capital,200,,Thread Group 1-1,text,true,,1552,196,1,1,http://restcountries.eu/rest/v2/capital/Algiers?fields=name;capital;currencies;latlng;regionalBlocs,362,0,0
+1603972040526,348,capital,200,,Thread Group 1-1,text,true,,1218,200,1,1,http://restcountries.eu/rest/v2/capital/Pago%20Pago?fields=name;capital;currencies;latlng;regionalBlocs,348,0,0
+1603972041921,331,capital,200,,Thread Group 1-1,text,true,,1200,209,1,1,http://restcountries.eu/rest/v2/capital/Andorra%20la%20Vella?fields=name;capital;currencies;latlng;regionalBlocs,331,0,0
+1603972043328,337,capital,200,,Thread Group 1-1,text,true,,1370,195,1,1,http://restcountries.eu/rest/v2/capital/Luanda?fields=name;capital;currencies;latlng;regionalBlocs,337,0,0
+1603972044747,332,capital,200,,Thread Group 1-1,text,true,,1216,201,1,1,http://restcountries.eu/rest/v2/capital/The%20Valley?fields=name;capital;currencies;latlng;regionalBlocs,332,0,0
+1603972046144,335,capital,200,,Thread Group 1-1,text,true,,1379,203,1,1,http://restcountries.eu/rest/v2/capital/Saint%20John's?fields=name;capital;currencies;latlng;regionalBlocs,335,0,0
+1603972047574,338,capital,200,,Thread Group 1-1,text,true,,1454,203,1,1,http://restcountries.eu/rest/v2/capital/Buenos%20Aires?fields=name;capital;currencies;latlng;regionalBlocs,338,0,0
+1603972048947,359,capital,200,,Thread Group 1-1,text,true,,1312,194,1,1,http://restcountries.eu/rest/v2/capital/Kabul?fields=name;capital;currencies;latlng;regionalBlocs,359,0,0
